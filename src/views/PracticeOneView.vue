@@ -14,7 +14,7 @@ export default {
   <div class="w-[700px] h-[50dvh]">
     <nav class="flex">
       <button type="button" class="nav-btn active">Vue</button>
-      <button type="button" class="nav-btn">編號1</button>
+      <button type="button" class="nav-btn">編號</button>
       <button type="button" class="nav-btn">姓名</button>
       <button type="button" class="nav-btn">喜歡的食物</button>
     </nav>
